@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: /
-
+Sitemap : https://parttimeentertainment.github.io/craft/sitemap_index.xml
